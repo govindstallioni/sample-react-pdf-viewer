@@ -1,0 +1,11 @@
+{
+  "[project]/app/reader/PdfViewer.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/app/reader/PdfViewer.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_114hvid._.js",
+      "static/chunks/app_reader_PdfViewer_tsx_000o2zp._.js",
+      "static/chunks/node_modules_react-pdf_dist_Page_0h.55tc._.css",
+      "static/chunks/app_reader_PdfViewer_tsx_0m4hs9w._.js"
+    ]
+  }
+}
